@@ -71,7 +71,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<FinalName>achat-docker</finalName>
+		<finalName>achat-docker</finalName>
 	</build>
 <!-- Deploy to Nexus -->
 <distributionManagement>
