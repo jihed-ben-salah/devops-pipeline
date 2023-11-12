@@ -71,6 +71,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<FinalName>achat.doccker</FinalName>
 	</build>
 <!-- Deploy to Nexus -->
 <distributionManagement>
