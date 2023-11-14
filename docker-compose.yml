@@ -10,8 +10,7 @@ services:
       - "3306:3306"
     networks:
       - mynetwork
-    volumes:
-      - db:/var/lib/mysql
+  
   # Spring Boot Application
   achat-app:
     image: jihedai/achat-app
