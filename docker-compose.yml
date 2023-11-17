@@ -13,7 +13,7 @@ services:
   
   # Spring Boot Application
   achat-app:
-    image: jihedai/achat-app
+    image: jihedai/achat:1.0.0
     ports:
       - "8083:8083"
     environment:
